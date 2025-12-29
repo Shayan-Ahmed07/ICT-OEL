@@ -7,19 +7,19 @@ The project was created as part of an academic open-ended lab assignment and foc
 
 The website uses text, images, and videos to provide an engaging overview of major tourist destinations across Pakistan without relying on CSS or JavaScript.
 
-Objectives
+#Objectives:
 
-Demonstrate a strong understanding of basic HTML structure and semantic elements
+1.Demonstrate a strong understanding of basic HTML structure and semantic elements
 
-Highlight the importance of tourism to Pakistan’s economy and cultural identity
+2.Highlight the importance of tourism to Pakistan’s economy and cultural identity
 
-Present major tourist destinations in a clear, section-based layout
+3.Present major tourist destinations in a clear, section-based layout
 
-Integrate multimedia elements using standard HTML tags
+4.Integrate multimedia elements using standard HTML tags
 
-Create an educational resource suitable for academic use
+5.Create an educational resource suitable for academic use
 
-Project Structure
+#Project Structure:
 
 The website is organized into the following main sections:
 
